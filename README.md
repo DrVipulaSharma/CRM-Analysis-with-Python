@@ -83,7 +83,7 @@ Based on the insights derived from the analysis, the following strategic recomme
 - **Product Quality and Description Improvement:** For products with high return rates, investigate whether the product descriptions, images, or size guides are clear and accurate. If mismatches are found, update the content to reduce customer confusion and dissatisfaction.
 
 - **Enhanced Return Policy for Loyal Customers:** Customers who have a history of frequent purchases and few returns could be offered more flexible return options, reducing friction and improving satisfaction.
-- 
+  
 - **Post-Purchase Support:** Implement post-purchase engagement like follow-up emails or surveys to better understand the reasons behind returns and identify actionable improvements in product quality, description, or customer expectations.
 
 **c. Targeting Specific Cohorts for Retention:**
